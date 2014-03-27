@@ -1,3 +1,4 @@
+var states =
 [
   {
     "name": "Alabama",
