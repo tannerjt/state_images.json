@@ -161,7 +161,7 @@ var states =
     "abbreviation": "ID",
     "capital": "",
     "image": {
-      "image_name": "ihaho.jpg",
+      "image_name": "idaho.jpg",
       "location": "Little Redfish Lake, Sawtooth National Recreation Area",
       "credit": {
         "author": "Charles Knowles",
@@ -239,7 +239,7 @@ var states =
     "abbreviation": "LA",
     "capital": "",
     "image": {
-      "image_name": "lousiana.jpg",
+      "image_name": "louisiana.jpg",
       "location": "Oak Alley Plantation, Vacherie",
       "credit": {
         "author": "Prayitno on Flickr",
@@ -278,7 +278,7 @@ var states =
     "abbreviation": "MA",
     "capital": "",
     "image": {
-      "image_name": "massachussetts.jpg",
+      "image_name": "massachusetts.jpg",
       "location": "Houghtonville, North Adams",
       "credit": {
         "author": "Kae Gaensler",
