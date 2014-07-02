@@ -1,4 +1,4 @@
-# US States and Beatiful Images
+# US States and Beautiful Images
 ### JavaScript object of US States and image names
 
 JSFiddle Example
