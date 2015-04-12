@@ -1,5 +1,5 @@
 # US States and Beautiful Images
-### JavaScript object of US States and image names
+### JavaScript object of US States and images
 
 JSFiddle Example
 http://jsfiddle.net/ck6en/
@@ -14,4 +14,5 @@ https://gist.github.com/mshafrir/2646763
 - Original post with images and inspiration
 http://twistedsifter.com/2013/06/america-the-beautiful-in-photos/
 
-Please fork this repo and use it or help improve it for others.
+#license
+
