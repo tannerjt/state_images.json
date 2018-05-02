@@ -14,7 +14,7 @@ https://gist.github.com/mshafrir/2646763
 - Original post with images and inspiration
 http://twistedsifter.com/2013/06/america-the-beautiful-in-photos/
 
-#license
+# license
 The MIT License (MIT)
 
 Copyright (c) 2015 Joshua Tanner
